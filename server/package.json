@@ -22,6 +22,7 @@
     "graphql": "^16.6.0",
     "graphql-subscriptions": "^2.0.0",
     "graphql-ws": "^5.11.2",
+    "graphsql": "^0.0.0",
     "http": "^0.0.1-security",
     "moment": "^2.29.4",
     "mongodb": "^6.3.0",
