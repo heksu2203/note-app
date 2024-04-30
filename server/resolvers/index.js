@@ -7,6 +7,7 @@ const pubsub = new PubSub();
 export const resolvers = {
   Date: new GraphQLScalarType({
     name: 'Date',
+    number :'datatype'
     parseValue(value) {
       return new Date(value);
     },
